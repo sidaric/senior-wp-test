@@ -1,4 +1,4 @@
-# Senior Wordpress Developer Assessment
+# Senior Wordpress Developer - Assessment
 
 WordPress Plugin: "Was this article Helpful?"
 
@@ -19,16 +19,15 @@ With this project you can quickly run the following:
 - [Configuration](#configuration)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Plugin Requirements](#plugin-requirements)
-- [Plugin description and functionality](#1.-plugin-description-and-functionality)
-- [Admin Functionality](#2.-admin-Functionality)
-- [Front-End](#3.-front-end)
-- [4. Security](#4.-security)
-- [5. Caching](#5.-caching)
-- [6. Documentation](#6.-documentation)
-- [7. Testing](#7.-testing)
-- [8. Submission](#8.-submission)
-- [9. Timeline](#9.-timeline)
+- [Plugin description and functionality](#1-plugin-description-and-functionality)
+- [Admin Functionality](#2-admin-Functionality)
+- [Front-End](#3-front-end)
+- [4. Security](#4-security)
+- [5. Caching](#5-caching)
+- [6. Documentation](#6-documentation)
+- [7. Testing](#7-testing)
+- [8. Submission](#8-submission)
+- [9. Timeline](#9-timeline)
 - [Side Notes](#side-notes)
 
 ## Requirements
