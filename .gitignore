@@ -92,7 +92,11 @@ composer.lock
 #===================================#
 #       WordPress Core Files        #
 #===================================#
-*/wp-content/uploads/*
+/wp-app/*
+/wp-app/wp-content/*
+/wp-app/wp-content/plugins/akismet
+/wp-app/wp-content/plugins/hello.php
+/wp-app/wp-content/plugins/index.php
 wp-config.php
 readme.html
 license.txt
@@ -112,6 +116,9 @@ license.txt
 #===================================#
 #          Whitelist                #
 #===================================#
+!/wp-app/wp-content
+!/wp-app/wp-content/plugins
 
-# themes
-#!*/wp-content/plugins/my-plugin-example
+# plugins
+#/wp-app/wp-content/plugins/*
+#!/wp-app/wp-content/plugins/hello.php
