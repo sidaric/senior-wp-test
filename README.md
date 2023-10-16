@@ -50,6 +50,8 @@ The containers are now built and running. You should be able to access the WordP
 
 For convenience you may add a new entry into your hosts file.
 
+Changes the ports, if needed, by editing the `docker-compose.yml` file.
+
 ## Usage
 
 ### Starting containers
